@@ -1,4 +1,4 @@
-## Olá, eu sou o Henrique, um estudante de programação e futuro programador Full Stack &#x1F60a;
+
 <div style="display: flex; flex-direction: row;" align="center">
   <a href="https://github.com/Henriqu33Bbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqu33Bbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
